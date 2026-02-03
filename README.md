@@ -20,7 +20,7 @@
 - 🔗 https://public.flourish.studio/visualisation/17998107/
 
 ### Preview
-![COVID-19 Time Series Visualization](visualization_preview.png)
+![COVID-19 Time Series Visualization](image/visualization_preview.png)
 
 ## Tools
 - Python
