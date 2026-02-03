@@ -15,6 +15,10 @@
 - Handling missing values in time-series data
 - Exporting cleaned data for visualization tools
 
+## Visualization
+- Interactive visualization created with Flourish
+- 🔗 https://public.flourish.studio/visualisation/17998107/
+
 ## Tools
 - Python
 - pandas
