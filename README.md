@@ -19,6 +19,9 @@
 - Interactive visualization created with Flourish
 - 🔗 https://public.flourish.studio/visualisation/17998107/
 
+### Preview
+![COVID-19 Time Series Visualization](visualization_preview.png)
+
 ## Tools
 - Python
 - pandas
